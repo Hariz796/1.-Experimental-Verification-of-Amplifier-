@@ -92,7 +92,9 @@ Inverting amplifier:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-27 at 1 27 46 PM](https://github.com/user-attachments/assets/6103d8b1-60df-4c16-a8bb-b17af2ee01b3)
 
+![WhatsApp Image 2026-03-27 at 1 29 28 PM](https://github.com/user-attachments/assets/42f004cc-c6ee-4b01-a0f9-5810bf8c1e9d)
 
 ---
 ### **Non-Inverting Amplifier**
@@ -138,7 +140,9 @@ PROCEDURE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-27 at 1 30 24 PM](https://github.com/user-attachments/assets/43b2bdbf-abc6-43f4-b44c-7ac143c652f3)
 
+![WhatsApp Image 2026-03-27 at 1 31 07 PM](https://github.com/user-attachments/assets/62550359-7dac-487b-bd40-79e69bba3067)
 
 ---
 ## DIFFERENTIAL AMPLIFIER
@@ -194,7 +198,9 @@ Choose  R1 = 1kOhm, Rf = 10kOhm
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-27 at 1 31 59 PM](https://github.com/user-attachments/assets/62040102-332c-40e7-9b7f-29bb4e790e25)
 
+![WhatsApp Image 2026-03-27 at 1 32 34 PM](https://github.com/user-attachments/assets/e42b859d-f617-49da-94b7-e0ea5ef161b7)
 
 ---
 ## INSTRUMENTATION AMPLIFIER
@@ -233,6 +239,9 @@ PROCEDURE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2026-03-27 at 1 36 04 PM](https://github.com/user-attachments/assets/fae6ad41-0540-4701-9861-a4cb9e5e4128)
+![WhatsApp Image 2026-03-27 at 1 37 28 PM](https://github.com/user-attachments/assets/70ba5619-b49f-48f4-a1c2-8a4ad63261b3)
+![WhatsApp Image 2026-03-27 at 1 37 40 PM](https://github.com/user-attachments/assets/85eed9a9-a742-4477-91d7-f2e08f5f60a8)
 
 
 ---
